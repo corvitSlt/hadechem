@@ -1,0 +1,136 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?vd7hbc');
+  src:  url('../fonts/icomoon.eot?vd7hbc#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?vd7hbc') format('truetype'),
+    url('../fonts/icomoon.woff?vd7hbc') format('woff'),
+    url('../fonts/icomoon.svg?vd7hbc#icomoon') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+  text-rendering: auto;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-indonesia-rupiah-currency-symbol:before {
+  content: "\e900";
+}
+.icon-cabinet:before {
+  content: "\e901";
+}
+.icon-calendar:before {
+  content: "\e902";
+}
+.icon-calendar-bold:before {
+  content: "\e903";
+}
+.icon-file-plus:before {
+  content: "\e904";
+}
+.icon-file-not-empty:before {
+  content: "\e905";
+}
+.icon-files:before {
+  content: "\e906";
+}
+.icon-download-alt:before {
+  content: "\e907";
+}
+.icon-upload-alt:before {
+  content: "\e908";
+}
+.icon-picture:before {
+  content: "\e909";
+}
+.icon-wallet:before {
+  content: "\e90a";
+}
+.icon-basket:before {
+  content: "\e90b";
+}
+.icon-folder:before {
+  content: "\e90c";
+}
+.icon-phone:before {
+  content: "\e90d";
+}
+.icon-phone-full:before {
+  content: "\e90e";
+}
+.icon-archive:before {
+  content: "\e90f";
+}
+.icon-stats:before {
+  content: "\e910";
+}
+.icon-pencil-alt:before {
+  content: "\e911";
+}
+.icon-edit:before {
+  content: "\e912";
+}
+.icon-profile1:before {
+  content: "\e913";
+}
+.icon-addressbook:before {
+  content: "\e914";
+}
+.icon-presentation:before {
+  content: "\e915";
+}
+.icon-shipping:before {
+  content: "\e916";
+}
+.icon-clipboard:before {
+  content: "\e917";
+}
+.icon-clipboard-check:before {
+  content: "\e918";
+}
+.icon-clipboard-bold:before {
+  content: "\e919";
+}
+.icon-pencil:before {
+  content: "\e91a";
+}
+.icon-image:before {
+  content: "\e91b";
+}
+.icon-images:before {
+  content: "\e91c";
+}
+.icon-profile:before {
+  content: "\e923";
+}
+.icon-file-text2:before {
+  content: "\e926";
+}
+.icon-paste:before {
+  content: "\e92d";
+}
+.icon-printer:before {
+  content: "\e954";
+}
+.icon-download:before {
+  content: "\e960";
+}
+.icon-upload:before {
+  content: "\e961";
+}
+.icon-user-plus:before {
+  content: "\e973";
+}
